@@ -1,7 +1,4 @@
-# termux-x11-addon-packages
-Disabled packages from Termux X11 repo needed for Termux X11 addon by @twaik 
-
-Termux-x11 addon istall instructions:
+# Termux-x11 addon istall instructions:
 
 Install X11 addon .apk file which I mirrored in this repo
 
@@ -28,7 +25,7 @@ termux-x11&
 export DISPLAY=:0
 xfce4-session
 
-Now we can configure shortcut for easy launch (In order to use shortcuts featture, you need Termux:widget addon, get it from here: https://f-droid.org/en/packages/com.termux.widget/ )
+Now we can configure shortcut for easy launch, in order to use shortcuts featture, you need Termux:widget addon, get it from here: https://f-droid.org/en/packages/com.termux.widget/
 
 Run in Termux:
 
